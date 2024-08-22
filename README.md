@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" alt="GIF">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan-sapkota&label=Profile%20views&color=0e75b6&style=flat" alt="rajan-sapkota" /> </p>
